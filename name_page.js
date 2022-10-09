@@ -1,2 +1,2 @@
-let name="Анна"
-alert(`Привет, ${name}`)
+let name="Иван"
+alert(`Привет, ${name}!`)
